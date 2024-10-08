@@ -55,3 +55,14 @@ SELECT
     INITCAP(First_Name) || ' ' || LOWER(Last_Name) || ' adalah seorang ' || UPPER(Job_Name) AS "IT TEAM"
 FROM 
     T_211011700352;
+
+
+
+
+bisa juga kamu coba yang di link 
+https://livesql.oracle.com/ords/f?p=590:1000
+
+
+https://www.oracle.com/in/database/technologies/xe-downloads.html
+
+https://www.oracle.com/database/sqldeveloper/
